@@ -61,7 +61,8 @@ margin: 0 auto;
      
      }
  .players .player img{
-    width:60px
+    width:50px;
+    height: 40px;
  } 
  .player-name{
     margin-left: 10px;
