@@ -172,6 +172,11 @@ margin: 0 auto;
          course style end
               ----------------*/
 
+              footer p{
+                text-align: center;
+                color: darkmagenta;
+               
+              }
 
 /*-------modile device----*/
 
